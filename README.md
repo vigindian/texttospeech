@@ -15,8 +15,9 @@ pygame.mixer
 
 <h2>Instructions</h2>
 1. Install the pre-requisite Python modules through pip. Eg: pip install gtts<br>
-2. Edit the script and define your input file in 'ifile' variable, under the MAIN section.<br>
-3. Run the script.<br>
-4. Enjoy listening to the transcript!
+2. Edit the script and define your input file in 'ifile' variable.<br>
+3. You can choose to change the speech language in 'lang' variable.<br>
+4. Run the script.<br>
+5. Enjoy listening to the transcript!
 <br><br>
 Thanks.
