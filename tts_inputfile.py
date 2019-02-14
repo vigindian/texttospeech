@@ -31,7 +31,7 @@ def Play(process):
       mixer.music.load(tf)
       mixer.music.play()
     except ValueError:
-      print("Sorry, the language is not supported")
+      print("Sorry, the language " +str(olang)+ " is not supported")
 
 #####
 #MAIN
