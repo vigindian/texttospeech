@@ -2,7 +2,7 @@
 
 The script accepts text input file and converts it to speech, using Google Text to Speech engine.
 
-<h2>Python Modules Used</h2>
+<h2>Modules Used</h2>
 <b>Google text-to-speech engine</b><br>
 gtts.GTTS 
 <br><br>
