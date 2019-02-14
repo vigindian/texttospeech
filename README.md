@@ -4,12 +4,12 @@ The script accepts text input file and converts it to speech, using Google Text 
 
 <h2>Python Modules Used</h2>
 <b>Google text-to-speech engine</b><br>
-from gtts import gTTS
-<br>
+gtts.GTTS 
+<br><br>
 <b>Temp file to store mp3</b><br>
-from tempfile import TemporaryFile
+tempfile.TemporaryFile
 
 <b>Play mp3</b><br>
-from pygame import mixer
+pygame.mixer
 
 Thanks.
